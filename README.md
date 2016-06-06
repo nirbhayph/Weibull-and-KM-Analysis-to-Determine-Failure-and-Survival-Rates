@@ -12,7 +12,7 @@ Detailed attention is paid to three areas:
 
 - Weibull regressions, with three parameters, are applied to fit real-world reliability data from different test conditions to analyze the vehicle failure.
 
-In addition to the above for automotive components failure rate has been plotted (separate plots for sample components) to identift the trend of failure for one year's dataset.
+In addition to the above for automotive components failure rate has been plotted (separate plots for sample components) to identify the trend of failure for one year's dataset.
 
 Also you can click [here](https://github.com/nirbhayph/Model-for-Failure-and-Survival-analysis-in-Automobile-Industry-using-R/blob/master/Paper/Paper.pdf) to have a look at the paper for this project.
 
