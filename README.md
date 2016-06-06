@@ -24,7 +24,7 @@ Also you can click [here](https://github.com/nirbhayph/Model-for-Failure-and-Sur
   
 - R Studio 
   
-  To install R for your operating system click [here](https://www.rstudio.com/products/rstudio/download/).
+  To install R Studio for your operating system click [here](https://www.rstudio.com/products/rstudio/download/).
   
 ###Package Requirement
 
