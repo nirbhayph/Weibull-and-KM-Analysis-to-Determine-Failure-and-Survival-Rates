@@ -1,5 +1,5 @@
 
-##Application of Weibull and KM Analysis to Determine Failure and Survival Rates in Automobile Industry using R
+## Application of Weibull and KM Analysis to Determine Failure and Survival Rates in Automobile Industry using R
 
 This project focuses on the automobile vehicle, automotive component failure detection based on failure modes using Weibull analysis and
 other survival analysis techniques. 
@@ -16,7 +16,7 @@ In addition to the above for automotive components failure rate has been plotted
 
 Also you can click [here](https://github.com/nirbhayph/Model-for-Failure-and-Survival-analysis-in-Automobile-Industry-using-R/blob/master/Paper/Paper.pdf) to have a look at the paper for this project.
 
-###Software Requirements
+### Software Requirements
 
 - R
 
@@ -26,11 +26,11 @@ Also you can click [here](https://github.com/nirbhayph/Model-for-Failure-and-Sur
   
   To install R Studio for your operating system click [here](https://www.rstudio.com/products/rstudio/download/).
   
-###Package Requirement
+### Package Requirement
 
 - Survival
 
-###To install a package to your computer
+### To install a package to your computer
 
 - Method 1: Install from source
 
@@ -44,6 +44,6 @@ Also you can click [here](https://github.com/nirbhayph/Model-for-Failure-and-Sur
 
   install.packages("mypkg", lib="/my/own/R-packages/") 
 
-###To Load the library
+### To Load the library
 
 - library("mypkg", lib.loc="/my/own/R-packages/")
